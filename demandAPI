@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Tech Corp",
+    "jobDescription": "We need a skilled frontend developer with React experience.",
+    "roles": ["T1", "T2"],
+    "assignedTAs": ["1", "2"]
+  },
+  {
+    "id": "2",
+    "title": "Backend Engineer",
+    "company": "Data Systems",
+    "jobDescription": "Looking for a backend engineer with Node.js and database skills.",
+    "roles": ["T3", "T4"],
+    "assignedTAs": ["3"]
+  }
+]
